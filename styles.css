@@ -280,6 +280,9 @@ body {
     .social-media {
         justify-content: center;
     }
+    .home-img {
+        display: none;
+    }
 }
 
 /* Dark Mode */
