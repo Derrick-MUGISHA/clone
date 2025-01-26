@@ -72,16 +72,16 @@ const projects = [
     },
     {  title: "Weather-system",
         description: "fetches weather data",
-        imageUrl: "https://www.citypng.com/public/uploads/preview/hd-aesthetic-youtube-yt-black-red-outline-logo-symbol-sign-icon-png-7017516951203758jnlahzimi.png",
+        imageUrl: "https://i.pinimg.com/736x/b9/2d/75/b92d7572a27b5052a6460d8d518e438c.jpg",
         liveLink: "https://tracker-api-r48e.onrender.com",
         codeLink: "https://github.com/Derrick-MUGISHA/tracker-api"
     },
-    // {   title: "Project Twelve",
-    //     description: "Project Twelve",
-    //     imageUrl: "https://www.citypng.com/public/uploads/preview/hd-aesthetic-youtube-yt-black-red-outline-logo-symbol-sign-icon-png-7017516951203758jnlahzimi.png",
-    //     liveLink: "https://github.com/Derrick-MUGISHA/youtube",
-    //     codeLink: "https://youtube-erv2.onrender.com"
-    // },
+    {   title: "3D-Model",
+        description: "MY 3D Model portfolio - soon coming",
+        imageUrl: "https://i.pinimg.com/736x/ad/02/12/ad02120ba7161dcaed70b45b17b6dbb0.jpg",
+        liveLink: "",
+        codeLink: ""
+    },
 ];
 
 // Function to create project cards
